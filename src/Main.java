@@ -59,7 +59,7 @@ public class Main {
             System.out.println("Месяц " + month + " сумма накоплени равна " + sum + " рублей");
         }
         //Task 10.
-        System.out.println("Задача 10. Таблица умножение на 2");
+        System.out.println("Задача 10. Таблица умножения на 2");
         for (int a = 1; a <= 10; a++) {
             System.out.printf("%d * %d=%d%n", 2, a, 2 * a);
         }
