@@ -14,7 +14,7 @@ public class Main {
         //Task 3.
         System.out.println();
         System.out.println("Задача 3. Чётные числа от 0 до 17");
-        for (int i = 0; i < 17; i = i + 2) {
+        for (int i = 0; i < 17; i += 2) {
             System.out.print(i + " ; ");
         }
         //Task 4 .
